@@ -111,7 +111,7 @@ div #apagar:hover {
 }
 
 div #envio {
-    margin-bottom: 2px;
+    margin-bottom: 3px;
     cursor: pointer;
     background-color: #190fa0;
     border-radius: 22px;
@@ -152,15 +152,18 @@ span {
     width: 12%;
     padding: 10px;
     margin: 0%;
-    color: rgb(253, 252, 252);
+    color: rgb(0, 0, 0);
     border-radius: 10px 1px 1px 11px;
 
 }
-p{margin-bottom: 22px;}
+
+p {
+    margin-bottom: 22px;
+}
 
 div #campo {
-    background-image: linear-gradient(to right, rgb(80, 2, 35) ,rgb(220, 0, 228) ,rgb(0, 26, 255));
-border-radius: 10px 10px 10px 10px;
+    background-image: linear-gradient(to right, rgb(170, 4, 73), rgb(220, 0, 228), rgb(0, 26, 255));
+    border-radius: 10px 10px 10px 10px;
 }
 
 
@@ -179,6 +182,7 @@ div #esqueci {
     display: block;
     text-align: center;
     margin-top: 22px;
+    font-family:;
 }
 
 div #esqueci:hover {
